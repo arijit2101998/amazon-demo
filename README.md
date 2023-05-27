@@ -1,5 +1,5 @@
 # Amazon-demo
-A ReactJs website containing:
+Simple ReactJs website containing:
 
 •	Home page
 
