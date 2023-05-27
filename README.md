@@ -1,5 +1,5 @@
 # Amazon-demo
-A responsive ReactJs website containing:
+A ReactJs website containing:
 
 •	Home page
 
